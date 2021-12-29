@@ -1,0 +1,21 @@
+{
+  "name": "interview-tasks",
+  "version": "1.0.0",
+  "description": "interview-tasks",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest --verbose"
+  },
+  "keywords": [
+    "HOF"
+  ],
+  "author": "Johnnie Lopez",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.4.5"
+  },
+  "jest": {
+    "testEnvironment": "node"
+  }
+}

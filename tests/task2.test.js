@@ -1,4 +1,4 @@
-const sum = require('../task2').sum
+const sum = require('../tasks/task2').sum
 
 describe('Task2', () => {
   test('Show the number zero,  prints -> 0', () => {

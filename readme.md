@@ -12,6 +12,6 @@ Run the project with the script start
 
 `npm start`
 
-Test the project
+Test the project with JEST
 
 `npm run test`

@@ -1,6 +1,7 @@
 # Interview Tasks
 
-Implementation a higher order function called sum in JavaScript
+- Implementation a higher order function called sum in JavaScript
+- In a Object: Search for a key value with its respective directory
 
 ## Setup and test
 

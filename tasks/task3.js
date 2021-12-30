@@ -1,3 +1,11 @@
+/**
+ *
+ * @param {Object} object - object to traverse
+ * @param {String} searchKey - keys to search for in object
+ * @param {String} optionalObjectName - optional object name
+ * @returns map containing all found values
+ */
+
 function extractValuesForKey(object, searchKey, optionalObjectName = '') {
   if (
     Object.keys(object).length === 1 &&
